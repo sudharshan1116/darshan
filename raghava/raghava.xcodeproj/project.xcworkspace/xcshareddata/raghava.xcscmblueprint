@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CA33963EFD856FDF4AF4D7FD1230579A5AD5AFBA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CA33963EFD856FDF4AF4D7FD1230579A5AD5AFBA" : 9223372036854775807,
+    "97CA3A60E65A02D207FA79DECE085A25AB11BA5E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2B9C36D9-3AC4-4F89-A9E7-227D04070376",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CA33963EFD856FDF4AF4D7FD1230579A5AD5AFBA" : "darshan\/",
+    "97CA3A60E65A02D207FA79DECE085A25AB11BA5E" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "raghava",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "raghava\/raghava.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/raghava93\/appPrac.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "97CA3A60E65A02D207FA79DECE085A25AB11BA5E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sudharshan1116\/darshan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA33963EFD856FDF4AF4D7FD1230579A5AD5AFBA"
+    }
+  ]
+}
